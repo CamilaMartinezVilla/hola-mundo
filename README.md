@@ -1,6 +1,6 @@
-# hola-mundo
+# Hola mundo
 
-Mi primer repositorio de prueba.
+Mi primer repositorio.
 
-Autora Camila Martínez Villa
+Camila Martínez Villa
 04-Feb-22
